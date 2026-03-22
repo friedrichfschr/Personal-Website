@@ -7,18 +7,7 @@ function App() {
   return (
     <>
       <section id="center">
-        <div>
-          <h1>Get started</h1>
-          <p className=''>
-            Edit <code>src/App.jsx</code> and save to test <code>HMR</code>
-          </p>
-        </div>
-        <button
-          className="counter"
-          onClick={() => setCount((count) => count + 1)}
-        >
-          Count is {count}
-        </button>
+        <h1 className="text-5xl font-bold">This Website is work in Progress.</h1>         
       </section>
 
     
